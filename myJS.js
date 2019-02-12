@@ -4,7 +4,7 @@ var secondUrl = 'https://app-versions.herokuapp.com/index/index/01d3c9f2-1fba-4a
 
 function getAnimation(){
     // animation data.json URL
-    let commentUulJson = "https://nininenine.github.io/animation_oneMax/data.json";
+    let commentUulJson = "https://nininenine.github.io/sub14520190212/data.json";
 
     // amimation action
     var animation = bodymovin.loadAnimation({
